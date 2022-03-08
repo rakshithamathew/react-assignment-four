@@ -1,10 +1,10 @@
 import "./styles.css";
 import { Route, Routes } from "react-router-dom";
-import Home from "./Home";
-import Student from "./Student";
-import Navbar from "./Navbar";
-import NoMatch from "./NoMatch";
-import Contact from "./Contact";
+import Home from "./Components/Home";
+import Student from "./Components/Student";
+import Navbar from "./Components/Navbar";
+import NoMatch from "./Components/NoMatch";
+import Contact from "./Components/Contact";
 
 function App() {
   return (
